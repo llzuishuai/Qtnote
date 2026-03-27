@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "cmake.options.statusBarVisibility": "compact",
+    "cmake.exportCompileCommandsFile": true,
+    "cmake.buildDirectory": "F:/cmake/${workspaceFolderBasename}",
+    "clangd.arguments": [
+        "--compile-commands-dir=F:/cmake/${workspaceFolderBasename}",
+    ]
+}

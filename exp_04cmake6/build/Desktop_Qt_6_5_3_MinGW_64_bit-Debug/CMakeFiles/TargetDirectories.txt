@@ -1,0 +1,9 @@
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/exp_04cmake6.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/exp_04cmake6_autogen_timestamp_deps.dir
+F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/exp_04cmake6_autogen.dir

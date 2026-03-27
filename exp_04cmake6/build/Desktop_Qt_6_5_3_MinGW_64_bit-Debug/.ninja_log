@@ -1,0 +1,9 @@
+# ninja log v6
+2	586	7957780651036611	exp_04cmake6_autogen/timestamp	e1c72f873efa425a
+2	586	7957780651036611	exp_04cmake6_autogen/mocs_compilation.cpp	e1c72f873efa425a
+2	586	7957780651036611	F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/exp_04cmake6_autogen/timestamp	e1c72f873efa425a
+2	586	7957780651036611	F:/QTproject/exp_04cmake6/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/exp_04cmake6_autogen/mocs_compilation.cpp	e1c72f873efa425a
+591	1666	7957780651765286	CMakeFiles/exp_04cmake6.dir/exp_04cmake6_autogen/mocs_compilation.cpp.obj	c4c48c5c3cca207a
+596	1696	7957780651806064	CMakeFiles/exp_04cmake6.dir/main.cpp.obj	c4f9bf8ffb1d3385
+600	1711	7957780651848445	CMakeFiles/exp_04cmake6.dir/widget.cpp.obj	5294caf4a97f7392
+1713	1895	7957780662977750	exp_04cmake6.exe	52107c9793bc1332
